@@ -1,0 +1,25 @@
+{
+  "name": "xy-ui-icons",
+  "version": "1.0.0",
+  "description": "svg icons for xy-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XboxYan/xy-ui-icons.git"
+  },
+  "keywords": [
+    "xy-ui",
+    "svg",
+    "icon",
+    "fontawesome"
+  ],
+  "author": "XboxYan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XboxYan/xy-ui-icons/issues"
+  },
+  "homepage": "https://github.com/XboxYan/xy-ui-icons#readme"
+}
